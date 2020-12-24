@@ -1,0 +1,2 @@
+#!/bin/bash
+pacman -S xorg-server xorg-xinit xorg-xrandr picom nitrogen feh vim 
